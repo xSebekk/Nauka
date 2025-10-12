@@ -21,5 +21,7 @@ int main()
 {
     liczba1 = rand() %10+1;
     liczba2 = rand() %10+1;
+
+    cout << "Podaj wynik mnozenia " << liczba1 << " * " << liczba2 << " = ";
 }
  
